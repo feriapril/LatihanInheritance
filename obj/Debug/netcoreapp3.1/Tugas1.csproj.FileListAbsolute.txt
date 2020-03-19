@@ -1,0 +1,11 @@
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csprojAssemblyReference.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+G:\Tugas\Project\Pemrograman\19.11.2890\Tugas1\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
