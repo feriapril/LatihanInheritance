@@ -1,22 +1,18 @@
-﻿using System;
-
-namespace baru
+﻿namespace baru.LatihanInheritance
 {
-    public class program
+    public class Program
     {
+
         static void Main(string[] args)
         {
-            taxi2 taxi = new taxi2();
+            Person person = new Person("Dilan", 29);
+            person.GetNameAndAge();
 
-            taxi.Drivername = "Joko";
-            taxi.OnDuty = true;
-            taxi.NumPassenger = 10;
+            Teacher teacher = new Teacher("Jono", 31, "3123", "Math");
+            teacher.GetNameAndAge();
 
-            taxi.TaxiInfo();
-            taxi.PickUpPassenger();
-            taxi.DropOffPassenger();
-
-
+            Student student = new Student("Ghema", 21, "2314", "Diansastro@gmail.com");
+            student.GetNameAndAge();
         }
     }
 }
